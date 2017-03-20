@@ -1,2 +1,2 @@
 # muistipeli
-# muistipeli
+Käyttöliittymäohjelmoinnin harjoitustyö.
